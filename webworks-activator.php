@@ -27,3 +27,4 @@ function run_activate_plugin( $plugin ) {
 run_activate_plugin( 'better-wp-security/better-wp-security.php' );
 run_activate_plugin( 'webworks-functions/webworks-functions.php' );
 run_activate_plugin( 'litespeed-cache/litespeed-cache.php' );
+run_activate_plugin( 'iwp-client/iwp-client.php' );
