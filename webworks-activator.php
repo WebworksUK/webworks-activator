@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Webworks required plugins activator
  * Plugin URI:   https://webworks.london
- * Description:  Activates iThemes Security, Litespeed Cache and Webworks Functions. This is for the benefit of your site, our infrastructure and our other users. All sites hosted on CloudWP must run these plugins.
+ * Description:  Activates iThemes Security, Litespeed Cache, IWP client, and Webworks Functions. This is for the benefit of your site, our infrastructure and our other users. All sites hosted on CloudWP must run these plugins.
  * Version:      1.1
  * Author:       Webworks UK Ltd
  * Author URI:   https://webworks.london
